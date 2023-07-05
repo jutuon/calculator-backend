@@ -1,0 +1,8 @@
+/target
+/database
+/tmp_databases
+
+server_config.toml
+
+.vscode
+.DS_STORE
